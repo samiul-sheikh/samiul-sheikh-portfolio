@@ -5,7 +5,7 @@
 - CSS3
 ### `Live Project`
 
-view : [preview_portfolio](https://samiul-sheikh.github.io/samiul-sheikh-portfolio/)
+[preview-portfolio](https://samiul-sheikh.github.io/samiul-sheikh-portfolio/)
 
 ### `Project Features`
 1. professional looks UI design.
